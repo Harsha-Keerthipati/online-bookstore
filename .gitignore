@@ -31,3 +31,4 @@ build/
 .vscode/
 
 /harsha/target/
+/angular-bookstore/node_modules/
